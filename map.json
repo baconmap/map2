@@ -35,7 +35,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/src\/assets\/hard-sports-electro-rock-loop.mp3"
+                 "value":"\/src\/assets\/hard-sports-electro-rock-loop.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
