@@ -269,7 +269,40 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":170.666666666667,
+                 "id":9,
+                 "name":"dancingFloor",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":221.333333333333,
+                 "x":385.333333333333,
+                 "y":117.333333333333
+                }, 
+                {
+                 "height":1.33333333333334,
+                 "id":10,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":6.66666666666669,
+                 "x":398.666666666667,
+                 "y":133.333333333333
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -337,7 +370,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":9,
+ "nextobjectid":13,
  "orientation":"orthogonal",
  "properties":[
         {
