@@ -77,7 +77,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map6\/map.json#left-entry-point"
+                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map6\/map.json#entry-point-left"
                 }],
          "type":"tilelayer",
          "visible":true,
